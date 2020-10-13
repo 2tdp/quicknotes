@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itTakePhoto"
+        android:title="Take Photo" />
+
+    <item
+        android:id="@+id/itChooseImage"
+        android:title="Choose Image" />
+
+    <item
+        android:id="@+id/itFont"
+        android:title="Font" />
+
+    <item
+        android:id="@+id/itTextSize"
+        android:title="Text Size" />
+
+    <item
+        android:id="@+id/itTextColor"
+        android:title="Text Color" />
+
+    <item
+        android:id="@+id/itNoteColor"
+        android:title="Note Color" />
+
+    <item
+        android:id="@+id/itDelete"
+        android:title="Delete" />
+</menu>

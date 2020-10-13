@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/itTextNotes"
+            android:icon="@drawable/file"
+            android:title="Text Notes" />
+
+        <item
+            android:id="@+id/itPicNotes"
+            android:icon="@drawable/photo"
+            android:title="Picture Notes" />
+
+        <item
+            android:id="@+id/itRemindNotes"
+            android:icon="@drawable/clock"
+            android:title="Remind Notes" />
+
+        <item
+            android:id="@+id/itPinNotes"
+            android:icon="@drawable/pushpin"
+            android:title="Pin Notes" />
+
+        <item
+            android:id="@+id/itRemindedNotes"
+            android:icon="@drawable/alarm"
+            android:title="Reminded Notes" />
+
+        <item
+            android:id="@+id/itSetting"
+            android:icon="@drawable/settings"
+            android:title="Setting" />
+    </group>
+
+
+</menu>
